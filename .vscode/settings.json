@@ -1,0 +1,13 @@
+{
+   "sqltools.connections": [
+      {
+         "database": "lunatix5",
+         "dialect": "MySQL",
+         "name": "lunatix5",
+         "password": "jacob",
+         "port": 3306,
+         "server": "localhost",
+         "username": "jacob"
+      }
+   ]
+}
